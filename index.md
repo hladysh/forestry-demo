@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: ''
 layout: landing-page
 heading: Belkirk College
 partners:
@@ -31,3 +31,5 @@ menu:
     url: "/"
     weight: 3
 ---
+
+\[object HTMLLIElement\]
