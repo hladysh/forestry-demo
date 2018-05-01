@@ -5,7 +5,7 @@ date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 ---
 ## What are draft posts?
 
